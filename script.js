@@ -1,11 +1,26 @@
 // 1-Переменные
-   // Variable
-
+// camelCase
+const firstName = "Vladilen"
 const lastName = "Minin" //string
 let age = 26 //number
-const isProgrammer = true
+const isProgrammer = true //boolean
 
-age = false
+var x = 1,
+    y = 356,
+    z = 37;
 
-console.log (isProgrammer)
+console.log (x + y + z)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
